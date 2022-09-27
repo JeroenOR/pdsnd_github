@@ -28,6 +28,9 @@ In this project focuses on posting two different versions of a Jupyter Notebook 
 
 ### Files used
 bikeshare.py template
+washington.csv
+chicago.csv
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
