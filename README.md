@@ -27,7 +27,7 @@ Post your work on Github - Bikeshare
 In this project focuses on posting two different versions of a Jupyter Notebook capturing the learnings from the course.
 
 ### Files used
-Include the files used
+bikeshare.py template
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
